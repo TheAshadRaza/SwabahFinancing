@@ -24,7 +24,7 @@ const Footer = () => {
                     src="/images/blog/logo.png"
                     alt=""
                     className=" md:w-full"
-                    width={70}
+                    width={120}
                     height={10}
                   />
                 </Link>
