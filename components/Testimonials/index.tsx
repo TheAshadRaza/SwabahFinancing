@@ -8,7 +8,7 @@ const testimonialData: Testimonial[] = [
     name: "Ravi krishna",
     designation: "",
     content:
-      "I was impressed by the personalized approach Muhasib Financing Broker took to understand my business's financial needs. Their tailored solutions not only saved me money but also optimized my cash flow. Highly recommended!.",
+      "I was impressed by the personalized approach Swabah Financing Broker took to understand my business's financial needs. Their tailored solutions not only saved me money but also optimized my cash flow. Highly recommended!.",
     image: "/images/testimonials/auth-01.png",
     star: 5,
   },
@@ -17,7 +17,7 @@ const testimonialData: Testimonial[] = [
     name: "Nafees Haider",
     designation: "",
     content:
-      "Muhasib Financing Broker's team is incredibly knowledgeable and responsive. They answered all my financial queries promptly and provided clear, concise advice. Working with them was a pleasure, and I feel much more secure about my financial future",
+      "Swabah Financing Broker's team is incredibly knowledgeable and responsive. They answered all my financial queries promptly and provided clear, concise advice. Working with them was a pleasure, and I feel much more secure about my financial future",
     image: "/images/testimonials/auth-02.png",
     star: 5,
   },
@@ -26,7 +26,7 @@ const testimonialData: Testimonial[] = [
     name: "Mohammad Zaffar khan",
     designation: "",
     content:
-      "Muhasib Financing Broker exceeded my expectations. Their commitment to integrity and transparency sets them apart. I felt confident throughout the entire process, knowing I had a team of experts working in my best interest. Thank you for your outstanding service.",
+      "Swabah Financing Broker exceeded my expectations. Their commitment to integrity and transparency sets them apart. I felt confident throughout the entire process, knowing I had a team of experts working in my best interest. Thank you for your outstanding service.",
     image: "/images/testimonials/auth-03.png",
     star: 5,
   },
@@ -38,7 +38,7 @@ const Testimonials = () => {
       <div className="container">
         <SectionTitle
           title="What Our Users Says"
-          paragraph="Join the ranks of satisfied clients who have turned their financial aspirations into reality with Muhasib Financing Broker. Read on to find out how we can make a difference in your financial journey."
+          paragraph="Join the ranks of satisfied clients who have turned their financial aspirations into reality with Swabah Financing Broker. Read on to find out how we can make a difference in your financial journey."
           center
         />
 

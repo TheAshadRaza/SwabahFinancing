@@ -44,7 +44,7 @@ const Hero = () => {
               cx="277"
               cy="63"
               r="225"
-              fill="url(#paint0_linear_25:217)"
+              fill="url(#paint0_linear_25:21)"
             />
             <circle
               cx="17.9997"

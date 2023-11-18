@@ -40,7 +40,7 @@ const Header = () => {
       <header
         className={`header top-0 left-0 z-40 flex w-full items-center bg-transparent ${
           sticky
-            ? "!fixed !z-[9999] !bg-white !bg-opacity-80 shadow-sticky backdrop-blur-sm !transition dark:!bg-primary dark:!bg-opacity-20"
+            ? "!fixed !z-[9999] !bg-white !bg-opacity-80 shadow-sticky backdrop-blur-sm !transition dark:!bg-rose dark:!bg-opacity-20"
             : "absolute"
         }`}
       >
@@ -56,11 +56,10 @@ const Header = () => {
                 <Image
                   src="/images/blog/logo.png"
                   alt="logo"
-                  width={50}
-                  height={10}
-                  className="w-full dark:hidden"
+                  width={120}
+                  height={20}
+                  className="w-full"
                 />
-              <span className="hidden w-full text-transparent bg-clip-text bg-gradient-to-r from-[#fcf114] via-[#f50707] to-[#074bf5] dark:block text-sm md:text-2xl font-bold text-center font-mono subpixel-antialiased tracking-widest">MUHASIB FINANCING BROKER</span>
 
                
               </Link>

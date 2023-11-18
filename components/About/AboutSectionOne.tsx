@@ -25,7 +25,7 @@ const AboutSectionOne = () => {
             <div className="w-full px-4 lg:w-1/2">
               <SectionTitle
                 title="We Like to know each other.."
-                paragraph="We are one of the leading financial services started up by young enthusiastic individuals who are highly qualified, academically strong enough to have  start-up which is fully loaded work experience.Mahasib financial is run by the young individual who are well."
+                paragraph="We are one of the leading financial services started up by young enthusiastic individuals who are highly qualified, academically strong enough to have  start-up which is fully loaded work experience.Swabah Financing is run by the young individual who are well."
                 mb="44px"
               />
 

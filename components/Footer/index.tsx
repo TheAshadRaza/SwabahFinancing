@@ -139,7 +139,7 @@ const Footer = () => {
         <div className="bg-primary/10 py-8">
           <div className="container">
             <p className="text-center text-base text-body-color text-xs md:text-sm dark:text-white">
-             <a href="" rel="nofollow noopener">© All Rights Reserved 2022  | Muhasib Financing Broker Est. </a>
+             <a href="" rel="nofollow noopener">© All Rights Reserved 2022  | Swabah Financing Broker Est. </a>
             <hr/>
             </p>
           </div>

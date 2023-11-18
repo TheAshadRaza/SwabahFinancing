@@ -22,7 +22,7 @@ const blogData: Blog[] = [
       "Discover the freedom of a Multi-Currency Account! Manage multiple currencies effortlessly, enjoy real-time exchange rates, and conduct international transactions seamlessly. Your global finances simplified, all in one account.",
     image: "/images/blog/blog-02.jpg",
     author: {
-      name: "Muhasib Financing Broker EST",
+      name: "Swabah Financing Broker EST",
       image: "/",
       designation: "",
     },
@@ -50,7 +50,7 @@ const blogData: Blog[] = [
       "An electronic salary transfer system that allows institutions to pay wages via banks, bureaux de change, and financial institutions approved and authorized to provide the service.",
     image: "/images/blog/blog-04.jpg",
     author: {
-      name: "Muhasib Financing Broker EST",
+      name: "Swabah Financing Broker EST",
       image: "/images/blog/author-02.png",
       designation: "",
     },
@@ -64,7 +64,7 @@ const blogData: Blog[] = [
       " In addition to documents that verify your identity, age, or address, you may also need to provide a minimum initial deposit when opening a bank account. A minimum initial deposit is an amount of money required by the bank upfront when opening a checking account, savings account, or certificate of deposit.",
     image: "/images/blog/blog-05.jpg",
     author: {
-      name: "Muhasib Financing Broker EST",
+      name: "Swabah Financing Broker EST",
       image: "/images/blog/author-02.png",
       designation: "",
     },
