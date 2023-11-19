@@ -6,31 +6,31 @@ const brandsData: Brand[] = [
     id: 1,
     name: "Lixi Invest",
     href: "",
-    image: "/images/brands/lixi.jpg",
+    image: "/images/brands/pahle.jpg",
   },
   {
     id: 2,
     name: "For Finance",
     href: "",
-    image: "/images/brands/4fin.png",
+    image: "/images/brands/dusra.jpg",
   },
   {
     id: 3,
     name: "Bondra",
     href: "",
-    image: "/images/brands/bondra.webp",
+    image: "/images/brands/tisra.jpg",
   },
   {
     id: 4,
     name: "Riverty",
     href: "",
-    image: "/images/brands/riverty.webp",
+    image: "/images/brands/choutha.jpg",
   },
   {
     id: 5,
     name: "Nordea",
     href: "",
-    image: "/images/brands/nordea.webp",
+    image: "/images/brands/panchwa.jpg",
   },
 ];
 
@@ -41,7 +41,7 @@ const Brands = () => {
         <div className="-mx-4 flex flex-wrap">
           <div className="w-full px-4">
             <div
-              className=" flex flex-wrap items-center justify-center rounded-md bg-dark py-8 px-8   sm:px-10 md:py-[40px] md:px-[50px] xl:p-[50px] 2xl:py-[60px] 2xl:px-[70px]"
+              className=" flex flex-wrap items-center justify-center rounded-xl bg-white py-8 px-8   sm:px-10 md:py-[40px] md:px-[50px] xl:p-[50px] 2xl:py-[60px] 2xl:px-[70px]"
              
             >
               {brandsData.map((brand) => (

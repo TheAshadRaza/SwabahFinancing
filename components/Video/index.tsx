@@ -25,8 +25,13 @@ const Video = () => {
               className="wow fadeInUp mx-auto max-w-[770px] overflow-hidden rounded-md"
               data-wow-delay=".15s"
             >
-              <div className="relative aspect-[77/40] items-center justify-center">
-                <Image src="/images/video/static.jpg" alt="video image" fill />
+              <div className="relative aspect-[10/10] items-center justify-center">
+                
+              <iframe src="https://giphy.com/embed/Wljoyh9YibUStevNCJ" width="100%" height="100%" style={{position:"absolute"}} frameBorder={"0"} className="giphy-embed" allowFullScreen></iframe>
+            </div><p><a href="https://giphy.com/gifs/StockUnlocked-stocks-stockunlocked-stock-unlocked-Wljoyh9YibUStevNCJ"></a></p>
+
+
+                
                 <div className="absolute top-0 right-0 flex h-full w-full items-center justify-center">
                  
                   
@@ -35,7 +40,7 @@ const Video = () => {
             </div>
           </div>
         </div>
-      </div>
+      
 
     
 
