@@ -7,10 +7,17 @@ const NewsLatterBox = () => {
       <h3 className="mb-4 text-2xl font-bold leading-tight text-black dark:text-white">
         Our Physical Location
       </h3>
+
+<p className="mb-11 border-b border-body-color border-opacity-25 pb-11 text-base font-medium leading-relaxed dark:border-white dark:border-opacity-25">
+      
+  </p>
+
+      
       <p className="mb-11 border-b border-body-color border-opacity-25 pb-11 text-base font-medium leading-relaxed dark:border-white dark:border-opacity-25">
-        Swabah Financing Broker EST.<br/>
-        Near KFC office-402<br/>
-        Frij Al Murar Deira, Dubai - 21275
+        T: +971 4 262 7788
+        107, Jan 1 Building
+        Meena Bazar, Al Fahidi
+        Dubai- U.A.E
       </p>
      
       <div className="location mr-4" >
